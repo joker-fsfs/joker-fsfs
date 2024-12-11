@@ -4,16 +4,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joker-fsfs&layout=compact&theme=github)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joker-fsfs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-fsfs&theme=github)
 
 
-![GitHub Contributions](https://github-readme-contributions.vercel.app/api/?username=joker-fsfs&theme=github)
-
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=joker-fsfs&theme=github)
-
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=joker-fsfs)
 
 ![GitHub Contributions](https://github-readme-contributions.vercel.app/api/?username=joker-fsfs&theme=github)
 
