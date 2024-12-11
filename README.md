@@ -4,11 +4,7 @@
 
 
 
-
-
-
-<img width="918" alt="Screenshot 2024-12-11 at 18 53 39" src="https://github.com/user-attachments/assets/8bc10a3a-370e-41d6-bfcd-2b855c1d1d9c" />
-
+<img width="1079" alt="Screenshot 2024-12-11 at 18 56 39" src="https://github.com/user-attachments/assets/d5750091-86ae-429a-93b7-a5c895f223d2" />
 
 
 
