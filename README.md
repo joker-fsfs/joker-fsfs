@@ -7,7 +7,9 @@
 <img width="1079" alt="Screenshot 2024-12-11 at 18 56 39" src="https://github.com/user-attachments/assets/d5750091-86ae-429a-93b7-a5c895f223d2" />
 
 
+### Languages and Tools: 
 
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,vue,nextjs,typescript,aws,babel,bootstrap,firebase,css,docker,figma,git,github,graphql,html,jquery,mongodb,netlify,nodejs,npm,postgres,redux,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn,pinia)](https://skillicons.dev)
 
 I am a **Frontend Developer** with expertise in building modern web applications. I specialize in:
 
