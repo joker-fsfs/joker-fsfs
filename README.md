@@ -10,7 +10,8 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=joker-fsfs&theme=github)
 
-![GitHub Contributions](https://github-readme-contributions.vercel.app/api/?username=joker-fsfs&theme=github)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-fsfs&theme=github)
+
 
 
 
