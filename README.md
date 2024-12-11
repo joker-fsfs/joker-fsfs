@@ -6,7 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joker-fsfs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joker-fsfs)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-fsfs&theme=github)
+
 
 ![GitHub Contributions](https://github-readme-contributions.vercel.app/api/?username=joker-fsfs&theme=github)
 
@@ -22,27 +23,30 @@
 
 ## Hi there 👋
 
-I am a **Frontend Developer** who loves creating dynamic and responsive web applications. I specialize in:
+I am a **Frontend Developer** with expertise in building modern web applications. I specialize in:
 
-- **Frontend Technologies**: React, JavaScript, Vue.js, Next.js
+- **Frontend Technologies**: React, JavaScript, Vue.js, Next.js, Pinia, Redux
 - **Backend Technologies**: GraphQL, Node.js
 - **Databases**: MongoDB, Neon DB, Drizzle ORM
-- **Languages & Tools**: TypeScript, Tailwind CSS, CSS, SCSS, Git, npm
+- **Testing**: Jest, React Testing Library (RTL)
+- **Languages & Tools**: TypeScript, Tailwind CSS, CSS, SCSS, Git, npm, Flow
 
-I enjoy building modern, user-friendly web applications, and I’m always looking to learn new frameworks and libraries to stay ahead of the curve.
+I enjoy creating dynamic and user-friendly interfaces, and I am passionate about improving my skills and learning new tools.
 
 ---
 
+### 🔭 I’m currently working on:
+- **Project 1**: Description of your current project.
+- **Project 2**: Description of another ongoing project.
+
 ### 🌱 I’m currently learning:
-- GraphQL
-- TypeScript (Advanced topics)
-- Nextjs (Advanced topics)
+- Advanced TypeScript
 - Backend development with Node.js
 
 ### 💬 Ask me about:
-- React, JavaScript, and Vue.js
+- React, Vue.js, Redux, and Pinia
 - Web development best practices
-- Tailwind CSS and SCSS
+- Tailwind CSS, SCSS, and styling frameworks
 
 ### 📫 How to reach me:
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
@@ -52,8 +56,11 @@ I enjoy building modern, user-friendly web applications, and I’m always lookin
 ---
 
 ### 💻 Skills & Technologies:
-- **Frontend**: React, Vue.js, Next.js, Tailwind CSS, SCSS
+- **Frontend**: React, Vue.js, Next.js, Redux, Pinia, Tailwind CSS, SCSS
 - **Backend**: Node.js, GraphQL
 - **Database**: MongoDB, Neon DB, Drizzle ORM
+- **Testing**: Jest, React Testing Library (RTL)
 - **Version Control**: Git, npm
+- **Static Type Checking**: TypeScript, Flow
+
 
