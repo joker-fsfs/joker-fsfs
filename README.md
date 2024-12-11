@@ -8,7 +8,7 @@
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-fsfs&theme=github)
 
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=joker-fsfs&theme=github)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joker-fsfs)](https://git.io/streak-stats)
 
 
 
