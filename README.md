@@ -9,8 +9,6 @@
 
 
 
-## Hi there 👋
-
 I am a **Frontend Developer** with expertise in building modern web applications. I specialize in:
 
 - **Frontend Technologies**: React, JavaScript, Vue.js, Next.js, Pinia, Redux
