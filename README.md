@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joker-fsfs&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joker-fsfs&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joker-fsfs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joker-fsfs&theme=github)
 
 
 
