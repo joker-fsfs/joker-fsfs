@@ -6,7 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joker-fsfs&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joker-fsfs&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=joker-fsfs)
+
 
 
 
