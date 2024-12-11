@@ -29,9 +29,6 @@ I enjoy creating dynamic and user-friendly interfaces, and I am passionate about
 
 ---
 
-### 🔭 I’m currently working on:
-- **Project 1**: Description of your current project.
-- **Project 2**: Description of another ongoing project.
 
 ### 🌱 I’m currently learning:
 - Advanced TypeScript
@@ -42,10 +39,6 @@ I enjoy creating dynamic and user-friendly interfaces, and I am passionate about
 - Web development best practices
 - Tailwind CSS, SCSS, and styling frameworks
 
-### 📫 How to reach me:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
