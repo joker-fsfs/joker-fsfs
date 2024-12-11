@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joker-fsfs&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joker-fsfs&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joker-fsfs&theme=tokyonight)
 
 
 
 
 
 
+
+<img width="918" alt="Screenshot 2024-12-11 at 18 53 39" src="https://github.com/user-attachments/assets/8bc10a3a-370e-41d6-bfcd-2b855c1d1d9c" />
 
 
 
