@@ -20,6 +20,23 @@ My portfolio is a small 3D world you drive through. [Take it for a drive →](ht
 ### 🤖 AI & agents
 - AI agents wired into real delivery through **MCP**: GitHub's official MCP server for code reviews and pull requests, **Jira** so the agent reads the ticket and its context first
 - Custom MCP servers for a project's own tools, tested with **MCP Inspector**
+
+#### 🧩 My agent toolkit
+An npm package that plugs a small team of AI agents into any project.
+
+- **Predefined agents**: a business analyst, a coder and a reviewer, with an **orchestrator** that decides which one to activate
+- **One setup**: it asks which editor you use, the project path and the GitHub and Jira credentials, then writes the MCP configuration for that editor. Keys stay on your machine only. Running in VS Code with Cline; other editors need only their MCP configuration
+- **Ticket to pull request**: the BA agent reads the Jira ticket and its context → the coder creates a branch named after the ticket in its own **git worktree** and implements it following the project's guidelines → the reviewer checks the change → the pull request is opened on GitHub
+- **Human in the loop**: a person approves every step the agents take, and the pull request still needs a colleague's approval to merge
+
+```text
+$ npx agent-toolkit init
+? editor   VS Code (Cline)      ? project  ~/work/app
+✓ GitHub MCP + Jira MCP connected
+> orchestrator: PROJ-142 → BA → coder → reviewer
+✓ pull request opened
+```
+- AI coding tools every day: **Claude Code, GitHub Copilot, Windsurf and Cursor**
 - 🏅 **Google Cloud Certified Partner Specialist: Gemini Enterprise Agent Development** · [verify](https://www.credly.com/go/rqDJLtlj)
 
 ### 🔐 Security, cost & performance
