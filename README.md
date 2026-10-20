@@ -12,6 +12,14 @@ Frontend engineer since 2017, at **Endava** since 2019. Self-taught: I started o
 
 My portfolio is a small 3D world you drive through. [Take it for a drive →](https://alex-dev-here.vercel.app)
 
+### 🏅 Certification
+<a href="https://www.credly.com/go/rqDJLtlj"><img src="https://alex-dev-here.vercel.app/badge-gemini-agent.png" alt="Google Cloud Certified Partner Specialist: Gemini Enterprise Agent Development" width="140" align="left" /></a>
+
+**Google Cloud — Certified Partner Specialist**<br />
+**Gemini Enterprise Agent Development**<br />
+Issued October 2026 · [verify on Credly](https://www.credly.com/go/rqDJLtlj)
+<br clear="left" />
+
 ### 🛠 What I do
 - Fast, precise interfaces in **React, TypeScript and Vue**, with the **Node.js, GraphQL and REST** APIs behind them
 - Large, legacy-heavy codebases made easier to work in: migrations to TypeScript, React, **Vite and Vitest** across hundreds of files, without stopping delivery
@@ -37,7 +45,6 @@ $ npx agent-toolkit init
 ✓ pull request opened
 ```
 - AI coding tools every day: **Claude Code, GitHub Copilot, Windsurf and Cursor**
-- 🏅 **Google Cloud Certified Partner Specialist: Gemini Enterprise Agent Development** · [verify](https://www.credly.com/go/rqDJLtlj)
 
 ### 🔐 Security, cost & performance
 - **Affordable AI**: response caching, a pipeline per request, quotas reserved **atomically in the database** before any model is called
